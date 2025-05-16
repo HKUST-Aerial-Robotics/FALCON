@@ -13,7 +13,10 @@
 </div>
 
 This is the code repository for the paper contributed to IEEE T-RO: 
-*FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance*.
+
+**[FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance](https://ieeexplore.ieee.org/document/10816079)**
+
+**Authors**: [Yichen Zhang](https://yzhangec.github.io/)\*, [Xinyi Chen](https://xchencq.github.io/)\*, [Chen Feng](https://chen-albert-feng.github.io/AlbertFeng.github.io/), [Boyu Zhou](https://robotics-star.com/people), and [Shaojie Shen](https://uav.hkust.edu.hk/group/).
 
 This paper introduces FALCON, a Fast Autonomous aerial robot expLoration planner using COverage path guidaNce. FALCON effectively harnesses the full potential of online generated coverage paths in enhancing exploration efficiency. We also introduce a lightweight exploration planner evaluation environment that allows for comparing exploration planners across a variety of testing scenarios using an identical quadrotor simulator.
 
@@ -23,14 +26,16 @@ This paper introduces FALCON, a Fast Autonomous aerial robot expLoration planner
 
 Please cite our paper if you use this project in your research:
 
-Zhang, Y., Chen, X., Feng, C., Zhou, B., & Shen, S. (2024). FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance. arXiv preprint arXiv:2407.00577.
-
+Zhang, Y., Chen, X., Feng, C., Zhou, B., & Shen, S. (2024). FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance. IEEE Transactions on Robotics.
 ```
 @article{zhang2024falcon,
-  title={FALCON: Fast Autonomous Aerial Exploration using Coverage Path Guidance},
-  author={Yichen Zhang, Xinyi Chen, Chen Feng, Boyu Zhou, Shaojie Shen},
-  journal={arXiv preprint arXiv:2407.00577},
-  year={2024}
+  title={FALCON: Fast Autonomous Aerial Exploration Using Coverage Path Guidance}, 
+  author={Zhang, Yichen and Chen, Xinyi and Feng, Chen and Zhou, Boyu and Shen, Shaojie},
+  journal={IEEE Transactions on Robotics}, 
+  year={2024},
+  volume={41},
+  pages={1365-1385},
+  doi={10.1109/TRO.2024.3522148}
 }
 ```
 
